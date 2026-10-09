@@ -1,0 +1,7 @@
+ignoré app.log
+ignoré src/debug.log
+suivi keep.log
+ignoré node_modules/react/index.js
+ignoré secret.txt
+suivi docs/secret.txt
+suivi src/index.js

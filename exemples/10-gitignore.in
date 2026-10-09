@@ -1,0 +1,12 @@
+*.log
+node_modules/
+/secret.txt
+!keep.log
+---
+app.log
+src/debug.log
+keep.log
+node_modules/react/index.js
+secret.txt
+docs/secret.txt
+src/index.js
