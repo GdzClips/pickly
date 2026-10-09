@@ -1,0 +1,9 @@
+{
+  "name": "pickly",
+  "version": "1.0.0",
+  "description": "Exercices du parcours EPHEC.dev « Git et GitHub - Collaborer sur un projet »",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
