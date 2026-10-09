@@ -1,0 +1,8 @@
+Titre
+x = 2
+<<<<<<< ours
+y = 3
+=======
+y = 4
+>>>>>>> theirs
+1 conflit(s)

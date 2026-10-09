@@ -1,0 +1,12 @@
+=== base
+titre
+x = 1
+y = 1
+=== ours
+Titre
+x = 1
+y = 3
+=== theirs
+titre
+x = 2
+y = 4
