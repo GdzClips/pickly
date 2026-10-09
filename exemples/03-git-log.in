@@ -1,0 +1,5 @@
+c3
+c1 | init
+c2 c1 | ajouter le README
+c3 c2 | corriger une faute
+x1 c1 | autre branche
